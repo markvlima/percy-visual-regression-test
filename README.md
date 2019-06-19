@@ -1,4 +1,4 @@
-# example-percy-cypress
+# percy-visual-regression-tests
 
 Example app demonstrating Percy's Cypress integration, used in [Percy's Cypress tutorial](https://docs.percy.io/docs/cypress-tutorial).
 
